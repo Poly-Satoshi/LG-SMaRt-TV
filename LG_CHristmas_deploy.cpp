@@ -17,4 +17,5 @@ usps}
 /who the fuck is dr dre ? "play that ish" delete
 burn dj kahlid/delete
 burn dj kahlid/
-
+wix what ever kahlif and that iollegal shit wipe billie ilish KAY VERBO DEATBH!
+	BURN
