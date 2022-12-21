@@ -1,0 +1,44 @@
+{
+  "sdk": {
+    "version": "6.0.300",
+    "rollForward": "latestFeature"
+  }
+}
+{
+   // This is a comment.
+  "sdk": {
+    "version": "7.0.100" /* This is comment 2*/
+  /* This is a
+  multiline comment.*/
+  }
+}
+{
+  "sdk": {
+    "allowPrerelease": false
+  }
+}
+{
+  "sdk": {
+    "version": "2.2.200",
+    "rollForward": "latestMajor"
+  }
+}
+{
+  "sdk": {
+    "version": "3.1.100",
+    "rollForward": "disable"
+  }
+}
+{
+  "sdk": {
+    "version": "3.1.102",
+    "rollForward": "latestFeature"
+  }
+}
+{
+  "sdk": {
+    "version": "3.1.102",
+    "rollForward": "latestPatch"
+  }
+}
+dotnet new globaljson --sdk-version 6.0.100
