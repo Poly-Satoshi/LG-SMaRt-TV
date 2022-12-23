@@ -36,7 +36,7 @@ children
 HTMLCollection []
 classList
 : 
-DOMTokenList [value: '']
+DOMTokenList [value: 'm']
 className
 : 
 ""
@@ -57,7 +57,7 @@ contentEditable
 "inherit"
 dataset
 : 
-DOMStringMap {}
+DOMStringMap {c}
 dir
 : 
 ""
@@ -129,7 +129,7 @@ offsetWidth
 1303
 outerHTML
 : 
-"<body></body>"
+"<body>on</body>"
 outerText
 : 
 ""
@@ -149,7 +149,7 @@ previousElementSibling
 : 
 head
 previousSibling
-: 
+: .golang
 head
 scrollHeight
 : 
@@ -159,7 +159,7 @@ scrollLeft
 0
 scrollTop
 : 
-0
+Z0
 scrollWidth
 : 
 1319
