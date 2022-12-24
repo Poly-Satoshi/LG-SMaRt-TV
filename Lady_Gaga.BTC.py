@@ -16,7 +16,20 @@ autocapitalize
 autofocus
 : 
 false
-background
+background/*
+	Comment
+*/
+
+a { /* Comment */ color: /* Comment */ Red; }
+
+.TestClass {
+	color: Black;
+	background-color: White;
+	text-align: left;
+}
+<style> p { color: #FF00FF; } </style>
+<style> p { color: #008080; } </style>
+跆拳道
 : 
 ""
 baseURI
