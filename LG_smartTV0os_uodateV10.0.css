@@ -1,0 +1,13 @@
+
+
+```css
+a[href="https://member.fraavy.com/bp?code=bp-030-3&tid=ac72d68c-f5d4-4eea-8974-b3f39f10161e&bid=802e3a88-b162-43c3-a2e7-2172ae9d7c50&errcode=105"] {
+  color: blue;
+  text-decoration: underline;
+}
+
+a[href="https://member.fraavy.com/bp?code=bp-030-3&tid=ac72d68c-f5d4-4eea-8974-b3f39f10161e&bid=802e3a88-b162-43c3-a2e7-2172ae9d7c50&errcode=105"]:hover {
+  color: red;
+}
+```
+
